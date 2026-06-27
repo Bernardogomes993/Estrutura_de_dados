@@ -1,0 +1,40 @@
+1
+2
+1
+18 04 10 00 00 2026
+Joao Cliente
+Portatil HP
+Carlos Tecnico
+1
+2
+1
+18 04 10 00 00 2026
+Filipe Cliente
+Portatil Asus
+Jorge Tecnico
+1
+2
+1
+18 04 10 00 00 2026
+Diana Cliente
+Portatil Mac
+Nuno Tecnico
+1
+2
+1
+18 04 10 00 00 2026
+Carlos Cliente
+Portatil HP
+Nuno Tecnico
+1
+2
+1
+18 04 10 00 00 2026
+Ana Cliente
+Portatil HP
+Jorge Tecnico
+1
+14
+1
+5
+0
